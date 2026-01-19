@@ -80,9 +80,3 @@ dart dart_async.dart
 
 ---
 
-## Learning Outcomes
-
-* Solid understanding of Dart fundamentals
-* Practical experience with collections and functional programming
-* Clear implementation of OOP concepts
-* Hands-on asynchronous programming using Futures and Streams
